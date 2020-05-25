@@ -33,13 +33,13 @@ try:
         print()
         sys.stdout.write(color.CYAN+"""
 ----------------------------------------
-1.gmail send				                   -
-2.hashMachine				                   -
-3.passwordMachine			                 -
-4.show wifi pw	       *(windows only)*-
-5.ec to de / de to en 			           -
-99.exit				                         -
-					                             -
+1.gmail send				           
+2.hashMachine				                   
+3.passwordMachine			                 
+4.show wifi pw	       *(windows only)*
+5.ec to de / de to en 			           
+99.exit				                         
+					                             
 -----------------------(AUTHOR : VEEX) -
 """+color.END)
     new()
